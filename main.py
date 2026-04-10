@@ -1,4 +1,4 @@
 # git init
 # git status
 # git add main.py
-# git commit -m
+# git commit -ms
